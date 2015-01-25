@@ -24,6 +24,8 @@ BowlingGame.prototype.allowPlayerToRollSpare = function(pins) {
     return this.spare = this.strike - this.score;
 
 };
+
+
 //
 // Thermostat.prototype.switchOn = function(){
 //   this.powerSave = true;
