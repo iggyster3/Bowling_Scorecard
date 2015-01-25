@@ -1,0 +1,74 @@
+h1 {
+  position: fixed;
+  top: 20%;
+  transform: translateY(-80%);
+  text-align: right;
+  font-weight: bold;
+  font-size: 2000%;
+}
+
+.energyNeutral{
+  color: #FFAD33;
+}
+
+.energyIntense{
+  color: #FF4719;
+}
+
+.ecoFriendly{
+  color: #4DDB94;
+}
+
+button{
+  border: none;
+  background-color: white;
+}
+
+.powersave-off {
+  left: 48%;
+  top: 15%;
+}
+
+.powersave-on {
+  left: 48%;
+  top: 20%;
+}
+
+.col-1{
+  width: 27.5%;
+  float: left;
+  height: 100vh;
+}
+
+.col-2{
+  width: 30%;
+  float: left;
+  height: 100vh;
+}
+
+.col-3{
+  width: 17.5%;
+  background-color: black;
+  float: left;
+  height: 100vh;
+}
+
+.col-4{
+  width: 5%;
+  background-color: black;
+  float: left;
+  height: 100vh;
+}
+
+.col-5{
+  width: 20%;
+  background-color: black;
+  float: left;
+  height: 100vh;
+}
+
+svg{
+  position: relative;
+  top: 65%;
+  transform: translateY(-35%);
+}
